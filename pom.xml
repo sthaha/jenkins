@@ -160,7 +160,7 @@
           <resources>
             <labels>
               <all>
-                <space>jenkins</space>
+                <space>foobar</space>
               </all>
             </labels>
           </resources>
